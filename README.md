@@ -31,6 +31,6 @@ pip install -r requirements.txt
 ```
 
 2. Download the trained model:
-Download link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
+<br>Download link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
 
 

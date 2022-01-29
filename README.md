@@ -22,7 +22,7 @@ Out of all these ten sources, only two were chosen to be used due to limited res
 </p>
 
 <h1 color="green"><b>Application</b></h1>
-<p>The Transformer was the model used to build the application. In order to try out the application, please follow these instructions.</p>
+<p>The Transformer was the model used to build the application. In order to try out the application, please follow the following instructions:</p>
 
 1. Install all Python libraries that the notebooks depend on using this command:
 
@@ -30,7 +30,7 @@ Out of all these ten sources, only two were chosen to be used due to limited res
 pip install -r requirements.txt
 ```
 
-
-Download the trained model from the following link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
+2. Download the trained model:
+Download link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
 
 

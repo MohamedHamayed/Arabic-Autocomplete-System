@@ -1,6 +1,0 @@
-1- Install requirments
-2- git clone https://github.com/aub-mind/arabert.git
-3- Open Anaconda Prompt
-4- Type uvicorn transformer_fastapi:app --reload
-5- Open the browser and go to  http://127.0.0.1:8000/docs
-6- Have fun trying out the application

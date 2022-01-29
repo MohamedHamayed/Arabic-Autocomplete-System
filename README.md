@@ -9,6 +9,8 @@
 <h1 color="green"><b>Tried Methods</b></h1>
 <ol>
 <li>N-grams Language Model</li>
-<li>Example 2</li>
-<li>Example 3</li>
+<li>Word Level RNN Language Model</li>
+<li>Subword Level RNN Language Model</li>
+<li>Character Level RNN Language Model</li>
+<li>Transformer Language Model</li>
 </ol>

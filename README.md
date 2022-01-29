@@ -22,14 +22,25 @@ Out of all these ten sources, only two were chosen to be used due to limited res
 </p>
 
 <h1 color="green"><b>Application</b></h1>
-<p>The Transformer was the model used to build the application. In order to try out the application, please follow the following instructions:</p>
+<p>The Transformer was the model used to build an API using a new easy web framework which is FastAPI. In order to try out the application, please follow the following instructions:</p>
 
-1. Install all Python libraries that the notebooks depend on using this command:
+1. Install all Python libraries that the notebooks depend on:
 
 ```python
 pip install -r requirements.txt
 ```
 
-2. Download the trained model from the following link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
+2. Download the trained model from this link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
 
+3. Clone the Arabert repo:
+```python
+git clone https://github.com/aub-mind/arabert.git
+```
 
+4. Run the server:
+
+```python
+uvicorn transformer_fastapi:app --reload
+```
+
+5. Navigate to your local host `http://localhost:8000/`

@@ -43,4 +43,6 @@ git clone https://github.com/aub-mind/arabert.git
 uvicorn transformer_fastapi:app --reload
 ```
 
-5. Navigate to your local host `http://localhost:8000/`
+5. Navigate to your local host `http://localhost:8000/docs`
+
+6. Assign the prefix text and the number of words to be predicted

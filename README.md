@@ -3,7 +3,5 @@
 </center>
 
 <h1 color="green"><b>Abstract</b></h1>
-<p>Vision-based activity recognition is one of the most challenging research topics of computer vision and pattern recognition. 
- A specific application of it, namely, detecting fights from surveillance cameras in public areas, prisons, etc., is desired, 
- to get violent incidents  under control quickly to reduce casualties.
+<p>Auto-Complete is a feature that provides relevant suggestions based on input by the user. It works best in domains with a limited number of possible words.
 </p>

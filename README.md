@@ -7,3 +7,8 @@
 </p>
 
 <h1 color="green"><b>Tried Methods</b></h1>
+<ol>
+<li>N-grams Language Model</li>
+<li>Example 2</li>
+<li>Example 3</li>
+</ol>

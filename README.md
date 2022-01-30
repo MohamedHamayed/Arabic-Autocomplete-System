@@ -30,7 +30,7 @@ Out of all these ten sources, only two were chosen to be used due to limited res
 pip install -r requirements.txt
 ```
 
-2. Download the trained model from this link: <a href="https://arxiv.org/ftp/arxiv/papers/1611/1611.04033.pdf">Finetuned-Transformer</a>
+2. Download the trained model from this link: <a href="https://drive.google.com/file/d/1hFHRaV7bmzKQrn92ew4-pQBsAcIg3HjG/view?usp=sharing">Finetuned-Transformer</a>
 
 3. Clone the Arabert repo:
 ```python
